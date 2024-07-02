@@ -1,14 +1,24 @@
-Company,Quarter,Market Value
-Alphabet,"January 1, 2024",1332000.0
-Amazon,"January 1, 2024",1058000.0
-Apple,"January 1, 2024",2609000.0
-Berkshire Hathaway,"January 1, 2024",677770.0
-Meta,"January 1, 2024",549480.0
-Microsoft,"January 1, 2024",2146000.0
-Nvidia,"January 1, 2024",686090.0
-TSMC,"January 1, 2024",482410.0
-Tesla,"January 1, 2024",656420.0
-Visa,"January 1, 2024",473870.0
+Company,Quarter,Market Value (in Millions)
+Tesla, 'July 1, 2024', 669280.0
+Broadcom, 'July 1, 2024', 763770.0
+Eli Lilly, 'July 1, 2024', 823300.0
+Berkshire Hathaway, 'July 1, 2024', 874760.0
+Meta, 'July 1, 2024', 1280000.0
+Amazon, 'July 1, 2024', 2052000.0
+Alphabet, 'July 1, 2024', 2269000.0
+Nvidia, 'July 1, 2024', 3057000.0
+Apple, 'July 1, 2024', 3323000.0
+Microsoft, 'July 1, 2024', 3394000.0
+Alphabet,"January 1, 2024",1893000.0
+Amazon,"January 1, 2024",1874000.0
+Apple,"January 1, 2024",2648000.0
+Berkshire Hathaway,"January 1, 2024",912130.0
+Broadcom,"January 1, 2024",614220.0
+Eli Lilly ,"January 1, 2024",739660.0
+Meta,"January 1, 2024",1238000.0
+Microsoft,"January 1, 2024",3126000.0
+Nvidia,"January 1, 2024",2259000.0
+TSMC,"January 1, 2024",705690.0
 Alphabet,"January 1, 2023",1332000.0
 Alphabet,"July 1, 2023",1662000.0
 Alphabet,"October 1, 2023",1764000.0
