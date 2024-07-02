@@ -1,14 +1,14 @@
 Company,Quarter,Market Value (in Millions)
-Tesla, 'July 1, 2024', 669280.0
-Broadcom, 'July 1, 2024', 763770.0
-Eli Lilly, 'July 1, 2024', 823300.0
-Berkshire Hathaway, 'July 1, 2024', 874760.0
-Meta, 'July 1, 2024', 1280000.0
-Amazon, 'July 1, 2024', 2052000.0
-Alphabet, 'July 1, 2024', 2269000.0
-Nvidia, 'July 1, 2024', 3057000.0
-Apple, 'July 1, 2024', 3323000.0
-Microsoft, 'July 1, 2024', 3394000.0
+Tesla,"July 1, 2024",669280.0
+Broadcom,"July 1, 2024",763770.0
+Eli Lilly,"July 1, 2024",823300.0
+Berkshire Hathaway,"July 1, 2024",874760.0
+Meta,"July 1, 2024",1280000.0
+Amazon,"July 1, 2024",2052000.0
+Alphabet,"July 1, 2024",2269000.0
+Nvidia,"July 1, 2024",3057000.0
+Apple,"July 1, 2024",3323000.0
+Microsoft,"July 1, 2024",3394000.0
 Alphabet,"January 1, 2024",1893000.0
 Amazon,"January 1, 2024",1874000.0
 Apple,"January 1, 2024",2648000.0
