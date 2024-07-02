@@ -1,0 +1,731 @@
+Company,Quarter,Market Value
+Alphabet,"First, 2024",1332000.0
+Amazon,"First, 2024",1058000.0
+Apple,"First, 2024",2609000.0
+Berkshire Hathaway,"First, 2024",677770.0
+Meta,"First, 2024",549480.0
+Microsoft,"First, 2024",2146000.0
+Nvidia,"First, 2024",686090.0
+TSMC,"First, 2024",482410.0
+Tesla,"First, 2024",656420.0
+Visa,"First, 2024",473870.0
+Alphabet,"First, 2023",1332000.0
+Alphabet,"Third, 2023",1662000.0
+Alphabet,"Fourth, 2023",1764000.0
+Alphabet,"Second, 2023",1530000.0
+Amazon,"Third, 2023",1312000.0
+Amazon,"First, 2023",1058000.0
+Amazon,"Fourth, 2023",1570000.0
+Amazon,"Second, 2023",1337000.0
+Apple,"First, 2023",2609000.0
+Apple,"Third, 2023",2677000.0
+Apple,"Fourth, 2023",2994000.0
+Apple,"Second, 2023",3050000.0
+Berkshire Hathaway,"First, 2023",677770.0
+Berkshire Hathaway,"Third, 2023",769260.0
+Berkshire Hathaway,"Second, 2023",745010.0
+Berkshire Hathaway,"Fourth, 2023",783550.0
+Eli Lilly ,"Third, 2023",509890.0
+Eli Lilly ,"Fourth, 2023",553370.0
+Meta,"Fourth, 2023",909000.0
+Meta,"First, 2023",549480.0
+Meta,"Second, 2023",735450.0
+Meta,"Third, 2023",772490.0
+Microsoft,"Fourth, 2023",2795000.0
+Microsoft,"Second, 2023",2532000.0
+Microsoft,"Third, 2023",2346000.0
+Microsoft,"First, 2023",2146000.0
+Nvidia,"Third, 2023",1074000.0
+Nvidia,"First, 2023",686090.0
+Nvidia,"Fourth, 2023",1223000.0
+Nvidia,"Second, 2023",1044000.0
+TSMC,"Fourth, 2023",539390.0
+TSMC,"Second, 2023",523410.0
+TSMC,"First, 2023",482410.0
+Tesla,"Third, 2023",794200.0
+Tesla,"Second, 2023",829670.0
+Tesla,"Fourth, 2023",789930.0
+Tesla,"First, 2023",656420.0
+Visa,"First, 2023",473870.0
+Visa,"Third, 2023",480990.0
+Visa,"Second, 2023",497370.0
+Alphabet,"First, 2022",1846000.0
+Alphabet,"Second, 2022",1435000.0
+Alphabet,"Third, 2022",1254000.0
+Alphabet,"Fourth, 2022",1145000.0
+Amazon,"Third, 2022",1151000.0
+Amazon,"First, 2022",1659000.0
+Amazon,"Second, 2022",1080000.0
+Amazon,"Fourth, 2022",856940.0
+Apple,"First, 2022",2850000.0
+Apple,"Second, 2022",2212000.0
+Apple,"Fourth, 2022",2066000.0
+Apple,"Third, 2022",2221000.0
+Berkshire Hathaway,"Fourth, 2022",681770.0
+Berkshire Hathaway,"First, 2022",779150.0
+Berkshire Hathaway,"Second, 2022",602450.0
+Berkshire Hathaway,"Third, 2022",596410.0
+ExxonMobil,"Fourth, 2022",454240.0
+Johnson & Johnson,"Fourth, 2022",461840.0
+Johnson & Johnson,"Third, 2022",429500.0
+Johnson & Johnson,"Second, 2022",467090.0
+Meta,"Third, 2022",364650.0
+Meta,"Second, 2022",436390.0
+Meta,"First, 2022",605250.0
+Microsoft,"First, 2022",2311000.0
+Microsoft,"Second, 2022",1920000.0
+Microsoft,"Third, 2022",1737000.0
+Microsoft,"Fourth, 2022",1787000.0
+Nvidia,"First, 2022",684880.0
+TSMC,"First, 2022",540670.0
+Tencent,"Fourth, 2022",405090.0
+Tencent,"Second, 2022",445990.0
+Tesla,"Third, 2022",831150.0
+Tesla,"First, 2022",1114000.0
+Tesla,"Second, 2022",697660.0
+UnitedHealth,"Fourth, 2022",495370.0
+UnitedHealth,"First, 2022",479830.0
+UnitedHealth,"Third, 2022",472410.0
+UnitedHealth,"Second, 2022",481870.0
+Visa,"Third, 2022",374380.0
+Visa,"Fourth, 2022",439950.0
+Alibaba Group,"First, 2021",615010.0
+Alibaba Group ,"Second, 2021",615140.0
+Alphabet,"First, 2021",1395000.0
+Alphabet ,"Fourth, 2021",1922000.0
+Alphabet ,"Third, 2021",1777000.0
+Alphabet ,"Second, 2021",1680000.0
+Amazon,"First, 2021",1558000.0
+Amazon ,"Fourth, 2021",1691000.0
+Amazon ,"Third, 2021",1664000.0
+Amazon ,"Second, 2021",1735000.0
+Apple,"First, 2021",2050000.0
+Apple ,"Fourth, 2021",2913000.0
+Apple ,"Second, 2021",2286000.0
+Apple ,"Third, 2021",2339000.0
+Berkshire Hathaway,"First, 2021",590050.0
+Berkshire Hathaway ,"Fourth, 2021",668630.0
+Berkshire Hathaway ,"Second, 2021",637280.0
+Berkshire Hathaway ,"Third, 2021",619950.0
+Meta,"First, 2021",838720.0
+Meta ,"Second, 2021",985920.0
+Meta ,"Third, 2021",956890.0
+Meta ,"Fourth, 2021",935640.0
+Microsoft,"First, 2021",1778000.0
+Microsoft ,"Second, 2021",2040000.0
+Microsoft ,"Fourth, 2021",2525000.0
+Microsoft ,"Third, 2021",2119000.0
+Nvidia,"Fourth, 2021",732920.0
+Nvidia,"Third, 2021",517900.0
+TSMC,"First, 2021",613410.0
+TSMC ,"Fourth, 2021",623930.0
+TSMC ,"Second, 2021",623160.0
+TSMC ,"Third, 2021",579030.0
+Tencent,"First, 2021",766970.0
+Tencent ,"Fourth, 2021",559900.0
+Tencent ,"Second, 2021",721460.0
+Tencent ,"Third, 2021",574460.0
+Tesla,"First, 2021",641110.0
+Tesla ,"Fourth, 2021",1061000.0
+Tesla ,"Second, 2021",654780.0
+Tesla ,"Third, 2021",776850.0
+Alibaba Group,"Third, 2020",795400.0
+Alibaba Group,"Second, 2020",579740.0
+Alibaba Group,"First, 2020",521740.0
+Alibaba Group,"Fourth, 2020",628650.0
+Alphabet,"Third, 2020",999570.0
+Alphabet,"First, 2020",799180.0
+Alphabet,"Second, 2020",979700.0
+Alphabet,"Fourth, 2020",1185000.0
+Amazon,"Second, 2020",1432590.0
+Amazon,"Third, 2020",1577000.0
+Amazon,"Fourth, 2020",1634000.0
+Amazon,"First, 2020",970590.0
+Apple,"Fourth, 2020",2254000.0
+Apple,"Third, 2020",1981000.0
+Apple,"First, 2020",1113000.0
+Apple,"Second, 2020",1576000.0
+Berkshire Hathaway,"First, 2020",440830.0
+Berkshire Hathaway,"Second, 2020",432570.0
+Berkshire Hathaway,"Third, 2020",509470.0
+Berkshire Hathaway,"Fourth, 2020",544780.0
+Facebook,"Fourth, 2020",776590.0
+Facebook,"First, 2020",475460.0
+Facebook,"Second, 2020",675690.0
+Facebook,"Third, 2020",746100.0
+Johnson & Johnson,"Second, 2020",370590.0
+Johnson & Johnson,"First, 2020",345700.0
+Microsoft,"Fourth, 2020",1682000.0
+Microsoft,"Second, 2020",1551000.0
+Microsoft,"Third, 2020",1592000.0
+Microsoft,"First, 2020",1200000.0
+TSMC,"Fourth, 2020",565280.0
+TSMC,"Third, 2020",420440.0
+Tencent,"Third, 2020",646790.0
+Tencent,"Second, 2020",620920.0
+Tencent,"Fourth, 2020",683470.0
+Tencent,"First, 2020",471660.0
+Tesla,"Fourth, 2020",668080.0
+Visa,"Second, 2020",412710.0
+Visa,"Third, 2020",425510.0
+Visa,"First, 2020",357020.0
+Alibaba Group,"Second, 2019",439150.0
+Alibaba Group,"First, 2019",472940.0
+Alibaba Group,"Third, 2019",435400.0
+Alibaba Group,"Fourth, 2019",569010.0
+Alphabet,"Third, 2019",838020.0
+Alphabet,"Fourth, 2019",922130.0
+Alphabet,"First, 2019",818160.0
+Alphabet,"Second, 2019",751170.0
+Amazon,"Fourth, 2019",916150.0
+Amazon,"Third, 2019",858680.0
+Amazon,"Second, 2019",928540.0
+Amazon,"First, 2019",874710.0
+Apple,"Second, 2019",911240.0
+Apple,"Fourth, 2019",1305000.0
+Apple,"First, 2019",835670.0
+Apple,"Third, 2019",1012000.0
+Berkshire Hathaway,"Fourth, 2019",553530.0
+Berkshire Hathaway,"Second, 2019",521100.0
+Berkshire Hathaway,"First, 2019",493750.0
+Berkshire Hathaway,"Third, 2019",508530.0
+Facebook,"First, 2019",475730.0
+Facebook,"Third, 2019",508050.0
+Facebook,"Fourth, 2019",585320.0
+Facebook,"Second, 2019",551490.0
+JPMorgan Chase,"Third, 2019",376310.0
+JPMorgan Chase,"Fourth, 2019",437230.0
+Johnson & Johnson,"First, 2019",372230.0
+Johnson & Johnson,"Second, 2019",370300.0
+Microsoft,"Fourth, 2019",1203000.0
+Microsoft,"First, 2019",904860.0
+Microsoft,"Third, 2019",1062000.0
+Microsoft,"Second, 2019",1028000.0
+Tencent,"Third, 2019",398840.0
+Tencent,"Second, 2019",432080.0
+Tencent,"First, 2019",440980.0
+Tencent,"Fourth, 2019",461370.0
+Visa,"Second, 2019",379271.0
+Visa,"First, 2019",353710.0
+Visa,"Third, 2019",385370.0
+Visa,"Fourth, 2019",416790.0
+Alibaba Group,"Fourth, 2018",355130.0
+Alibaba Group,"Second, 2018",476040.0
+Alibaba Group,"First, 2018",470930.0
+Alibaba Group,"Third, 2018",423600.0
+Alphabet,"First, 2018",715404.0
+Alphabet,"Third, 2018",839740.0
+Alphabet,"Fourth, 2018",728360.0
+Alphabet,"Second, 2018",774840.0
+Amazon,"First, 2018",700672.0
+Amazon,"Fourth, 2018",735900.0
+Amazon,"Third, 2018",976650.0
+Amazon,"Second, 2018",824790.0
+Apple,"First, 2018",851317.0
+Apple,"Fourth, 2018",748680.0
+Apple,"Second, 2018",909840.0
+Apple,"Third, 2018",1091000.0
+Berkshire Hathaway,"Third, 2018",523520.0
+Berkshire Hathaway,"First, 2018",492019.0
+Berkshire Hathaway,"Fourth, 2018",499590.0
+Berkshire Hathaway,"Second, 2018",463980.0
+ExxonMobil ,"Second, 2018",350270.0
+Facebook,"Fourth, 2018",375890.0
+Facebook,"First, 2018",464189.0
+Facebook,"Second, 2018",562480.0
+Facebook,"Third, 2018",473850.0
+JPMorgan Chase,"Second, 2018",354780.0
+JPMorgan Chase,"First, 2018",377410.0
+JPMorgan Chase,"Third, 2018",379440.0
+JPMorgan Chase,"Fourth, 2018",324660.0
+Johnson & Johnson,"Third, 2018",370650.0
+Johnson & Johnson,"Fourth, 2018",346110.0
+Johnson & Johnson,"First, 2018",343780.0
+Microsoft,"Second, 2018",757640.0
+Microsoft,"Third, 2018",877400.0
+Microsoft,"First, 2018",702760.0
+Microsoft,"Fourth, 2018",780520.0
+Tencent,"Second, 2018",478580.0
+Tencent,"First, 2018",507990.0
+Tencent,"Fourth, 2018",375110.0
+Tencent,"Third, 2018",388080.0
+Alibaba Group,"Fourth, 2017",440712.0
+Alibaba Group,"Second, 2017",356390.0
+Alibaba Group,"Third, 2017",436850.0
+Alphabet,"First, 2017",573570.0
+Alphabet,"Fourth, 2017",727040.0
+Alphabet,"Third, 2017",664550.0
+Alphabet,"Second, 2017",628610.0
+Amazon,"First, 2017",423031.0
+Amazon,"Third, 2017",459435.0
+Amazon,"Fourth, 2017",563540.0
+Amazon,"Second, 2017",466471.0
+Apple,"First, 2017",753718.0
+Apple,"Third, 2017",791726.0
+Apple,"Fourth, 2017",868880.0
+Apple,"Second, 2017",749124.0
+Berkshire Hathaway,"Second, 2017",418880.0
+Berkshire Hathaway,"Third, 2017",451840.0
+Berkshire Hathaway,"Fourth, 2017",489490.0
+Berkshire Hathaway,"First, 2017",410880.0
+ExxonMobil ,"Third, 2017",348248.0
+ExxonMobil ,"Second, 2017",341947.0
+ExxonMobil ,"First, 2017",339897.0
+Facebook,"Second, 2017",357176.0
+Facebook,"Fourth, 2017",512760.0
+Facebook,"First, 2017",334552.0
+Facebook,"Third, 2017",399946.0
+JPMorgan Chase,"First, 2017",313761.0
+JPMorgan Chase,"Fourth, 2017",371050.0
+Johnson & Johnson,"Third, 2017",347497.0
+Johnson & Johnson,"Fourth, 2017",375360.0
+Johnson & Johnson,"First, 2017",337947.0
+Johnson & Johnson,"Second, 2017",357310.0
+Microsoft,"Second, 2017",528778.0
+Microsoft,"Fourth, 2017",659910.0
+Microsoft,"Third, 2017",568965.0
+Microsoft,"First, 2017",508935.0
+Tencent,"Fourth, 2017",493340.0
+Tencent,"Third, 2017",405007.0
+Tencent,"Second, 2017",344879.0
+Wells Fargo ,"First, 2017",278516.0
+AT&T ,"Second, 2016",261035.0
+Alphabet,"First, 2016",535660.0
+Alphabet ,"Fourth, 2016",531970.0
+Alphabet ,"Third, 2016",535660.0
+Alphabet ,"Second, 2016",475320.0
+Amazon,"Fourth, 2016",356313.12
+Amazon,"Third, 2016",393030.0
+Amazon,"First, 2016",281888.0
+Amazon,"Second, 2016",337641.0
+Apple,"Fourth, 2016",617588.49
+Apple,"Third, 2016",604475.0
+Apple,"First, 2016",607465.0
+Apple,"Second, 2016",517069.0
+Berkshire Hathaway,"Third, 2016",358300.0
+Berkshire Hathaway,"First, 2016",349740.0
+Berkshire Hathaway,"Fourth, 2016",404390.0
+Berkshire Hathaway,"Second, 2016",345860.0
+ExxonMobil,"Fourth, 2016",374280.0
+ExxonMobil ,"Third, 2016",358519.0
+ExxonMobil ,"First, 2016",350991.0
+ExxonMobil ,"Second, 2016",383396.0
+Facebook,"First, 2016",259192.0
+Facebook,"Third, 2016",297548.0
+Facebook ,"Second, 2016",263930.0
+General Electric,"Fourth, 2016",279545.92
+General Electric ,"Second, 2016",280927.0
+General Electric ,"First, 2016",295546.0
+General Electric ,"Third, 2016",261876.0
+JPMorgan Chase,"Fourth, 2016",308768.42
+Johnson & Johnson,"Second, 2016",328234.0
+Johnson & Johnson,"Third, 2016",320836.0
+Johnson & Johnson,"First, 2016",300604.0
+Johnson & Johnson,"Fourth, 2016",313432.46
+Microsoft,"First, 2016",439734.0
+Microsoft,"Second, 2016",397268.0
+Microsoft,"Third, 2016",447290.0
+Microsoft,"Fourth, 2016",483160.28
+Tencent ,"Third, 2016",265603.0
+Wells Fargo,"Fourth, 2016",276779.12
+Wells Fargo ,"First, 2016",246035.0
+Alphabet,"Fourth, 2015",534090.0
+Amazon ,"Fourth, 2015",323009.0
+Apple,"First, 2015",724773.1
+Apple,"Fourth, 2015",598344.0
+Apple,"Second, 2015",722576.9
+Apple,"Third, 2015",621939.0
+Berkshire Hathaway,"First, 2015",356510.7
+Berkshire Hathaway,"Fourth, 2015",323750.0
+Berkshire Hathaway,"Third, 2015",318180.0
+Berkshire Hathaway,"Second, 2015",336014.5
+China Mobile,"Third, 2015",243186.0
+ExxonMobil,"First, 2015",356548.7
+ExxonMobil,"Fourth, 2015",325167.0
+ExxonMobil,"Third, 2015",304245.0
+ExxonMobil,"Second, 2015",347868.1
+General Electric,"Second, 2015",267717.4
+General Electric ,"Fourth, 2015",313892.0
+General Electric ,"Third, 2015",248069.0
+Google,"First, 2015",345849.2
+Google,"Second, 2015",336014.5
+Google ,"Third, 2015",407870.0
+ICBC,"Second, 2015",298531.5
+ICBC,"First, 2015",275389.1
+JPMorgan Chase,"Fourth, 2015",245126.0
+Johnson & Johnson,"Fourth, 2015",287153.0
+Johnson & Johnson,"Third, 2015",257637.0
+Johnson & Johnson,"Second, 2015",270260.8
+Johnson & Johnson,"First, 2015",279723.9
+Microsoft ,"First, 2015",333524.8
+Microsoft ,"Fourth, 2015",449799.0
+Microsoft ,"Third, 2015",347432.0
+Microsoft ,"Second, 2015",357154.4
+Nestlé,"Third, 2015",233361.0
+Novartis,"Third, 2015",240373.0
+Novartis,"First, 2015",267897.0
+Petro China,"First, 2015",329715.1
+Petro China,"Second, 2015",319391.6
+Wells Fargo,"Fourth, 2015",281770.0
+Wells Fargo,"Second, 2015",289591.3
+Wells Fargo,"First, 2015",279919.7
+Apple,"First, 2014",478766.1
+Apple,"Second, 2014",560337.4
+Apple,"Fourth, 2014",647361.0
+Apple,"Third, 2014",603277.4
+Berkshire Hathaway,"First, 2014",308090.6
+Berkshire Hathaway,"Fourth, 2014",370652.6
+Berkshire Hathaway,"Second, 2014",312216.7
+Berkshire Hathaway,"Third, 2014",340055.0
+ExxonMobil,"Fourth, 2014",391481.9
+ExxonMobil,"First, 2014",422098.3
+ExxonMobil,"Second, 2014",432357.3
+ExxonMobil,"Third, 2014",401094.1
+General Electric,"First, 2014",259547.3
+General Electric,"Second, 2014",263529.6
+General Electric,"Third, 2014",257068.4
+Google,"Fourth, 2014",329768.5
+Google,"Second, 2014",358347.3
+Google,"Third, 2014",361998.4
+Google,"First, 2014",313003.9
+Hoffmann-La Roche,"Third, 2014",254543.8
+Hoffmann-La Roche,"Second, 2014",256322.8
+Hoffmann-La Roche,"First, 2014",258542.1
+ICBC,"Fourth, 2014",271146.1
+Johnson & Johnson,"Second, 2014",295980.1
+Johnson & Johnson,"Third, 2014",300614.2
+Johnson & Johnson,"First, 2014",277826.2
+Johnson & Johnson,"Fourth, 2014",292702.8
+Microsoft ,"Second, 2014",344458.8
+Microsoft ,"Third, 2014",381959.7
+Microsoft ,"Fourth, 2014",382880.3
+Microsoft ,"First, 2014",340216.8
+Novartis,"Third, 2014",255326.4
+PetroChina,"Fourth, 2014",305536.1
+Royal Dutch Shell ,"Second, 2014",269563.4
+Walmart,"First, 2014",246805.7
+Walmart,"Fourth, 2014",276807.4
+Wells Fargo,"Fourth, 2014",284385.6
+Wells Fargo,"Second, 2014",276837.0
+Wells Fargo,"Third, 2014",270782.4
+Wells Fargo,"First, 2014",261217.5
+Apple,"First, 2013",415683.3
+Apple ,"Fourth, 2013",504770.8
+Apple ,"Third, 2013",433099.6
+Apple ,"Second, 2013",372202.3
+Berkshire Hathaway,"Fourth, 2013",292396.0
+Berkshire Hathaway,"First, 2013",256801.8
+Berkshire Hathaway,"Third, 2013",280001.5
+Berkshire Hathaway,"Second, 2013",276548.5
+Chevron Corporation,"Third, 2013",234740.8
+Chevron Corporation,"Second, 2013",229402.6
+Chevron Corporation,"First, 2013",230831.2
+Chevron Corporation ,"Fourth, 2013",240223.4
+ExxonMobil,"First, 2013",403733.1
+ExxonMobil,"Third, 2013",378716.2
+ExxonMobil ,"Fourth, 2013",442142.8
+ExxonMobil ,"Second, 2013",401729.8
+General Electric,"Third, 2013",243290.4
+General Electric,"Fourth, 2013",283589.8
+General Electric,"Second, 2013",239787.2
+General Electric,"First, 2013",239775.6
+Google,"Second, 2013",238688.6
+Google ,"Fourth, 2013",310079.1
+Google ,"Third, 2013",237479.4
+Hoffmann-La Roche,"Third, 2013",232495.2
+Hoffmann-La Roche ,"Fourth, 2013",241368.0
+IBM,"First, 2013",237724.7
+ICBC,"Second, 2013",226879.8
+Johnson & Johnson,"Third, 2013",244298.5
+Johnson & Johnson,"Second, 2013",241170.9
+Johnson & Johnson,"Fourth, 2013",258415.4
+Microsoft,"Fourth, 2013",312297.3
+Microsoft ,"Third, 2013",277220.9
+Microsoft ,"First, 2013",239602.3
+Microsoft ,"Second, 2013",288488.8
+Nestlé,"First, 2013",233792.1
+PetroChina,"First, 2013",254618.7
+Walmart,"First, 2013",246373.3
+Walmart,"Second, 2013",244079.4
+Walmart,"Third, 2013",240773.3
+Walmart ,"Fourth, 2013",254622.8
+Apple,"First, 2012",559002.1
+Apple,"Third, 2012",625348.1
+Apple,"Fourth, 2012",500610.7
+Apple,"Second, 2012",546076.1
+BHP Billiton ,"Fourth, 2012",247409.0
+Chevron Corporation,"Third, 2012",228707.1
+Chevron Corporation,"First, 2012",211950.6
+China Mobile,"Fourth, 2012",234040.2
+China Mobile,"Second, 2012",219481.3
+China Mobile,"Third, 2012",222817.8
+China Mobile,"First, 2012",220978.9
+ExxonMobil,"Fourth, 2012",394610.9
+ExxonMobil,"Second, 2012",400139.1
+ExxonMobil,"First, 2012",408777.4
+ExxonMobil,"Third, 2012",422127.5
+General Electric,"First, 2012",212317.7
+General Electric,"Second, 2012",220806.3
+General Electric,"Third, 2012",239791.2
+IBM,"Second, 2012",225598.5
+IBM,"First, 2012",241754.6
+IBM,"Third, 2012",237068.4
+ICBC,"First, 2012",236335.4
+ICBC ,"Fourth, 2012",236457.9
+ICBC ,"Second, 2012",211196.0
+Microsoft,"Fourth, 2012",224801.0
+Microsoft,"Second, 2012",256982.4
+Microsoft,"First, 2012",270644.1
+Microsoft,"Third, 2012",249489.8
+PetroChina,"Third, 2012",253853.3
+PetroChina,"Second, 2012",257685.8
+PetroChina,"Fourth, 2012",264833.4
+PetroChina,"First, 2012",278968.4
+Royal Dutch Shell ,"Second, 2012",217048.2
+Royal Dutch Shell ,"Third, 2012",222669.6
+Royal Dutch Shell ,"First, 2012",222425.1
+Royal Dutch Shell ,"Fourth, 2012",222669.6
+Samsung Electronics,"Fourth, 2012",227581.8
+Walmart,"Third, 2012",248074.4
+Walmart,"Second, 2012",235900.3
+Walmart,"Fourth, 2012",228245.4
+Apple,"First, 2011",321072.1
+Apple,"Fourth, 2011",376410.6
+Apple,"Second, 2011",310412.3
+Apple,"Third, 2011",353518.1
+BHP Billiton,"First, 2011",247079.5
+BHP Billiton,"Second, 2011",233626.5
+Chevron Corporation,"Fourth, 2011",211893.9
+Chevron Corporation,"Third, 2011",185456.1
+Chevron Corporation,"First, 2011",215780.6
+China Construction Bank,"First, 2011",232608.6
+China Mobile,"Fourth, 2011",196148.4
+China Mobile,"Third, 2011",198778.7
+ExxonMobil,"Fourth, 2011",406272.1
+ExxonMobil,"Third, 2011",353135.2
+ExxonMobil,"First, 2011",417166.7
+ExxonMobil,"Second, 2011",400884.5
+IBM,"Second, 2011",207781.4
+IBM,"Fourth, 2011",216724.4
+IBM,"Third, 2011",208843.5
+ICBC,"First, 2011",251078.1
+ICBC,"Second, 2011",246850.5
+ICBC,"Third, 2011",206021.4
+ICBC,"Fourth, 2011",228168.1
+Microsoft,"Fourth, 2011",218380.1
+Microsoft,"First, 2011",213336.4
+Microsoft,"Second, 2011",219251.9
+Microsoft,"Third, 2011",208534.9
+Nestlé,"Third, 2011",191115.6
+Nestlé,"Second, 2011",215017.5
+PetroChina,"Second, 2011",303649.9
+PetroChina,"First, 2011",326199.2
+PetroChina,"Fourth, 2011",276844.9
+PetroChina,"Third, 2011",276473.9
+Petrobras,"Second, 2011",210111.4
+Petrobras,"First, 2011",247417.6
+Royal Dutch Shell,"Second, 2011",225122.8
+Royal Dutch Shell,"First, 2011",226128.7
+Royal Dutch Shell,"Fourth, 2011",236677.0
+Royal Dutch Shell,"Third, 2011",197061.1
+Walmart,"Fourth, 2011",204659.8
+Apple,"Third, 2010",259223.4
+Apple,"Second, 2010",228876.8
+Apple,"Fourth, 2010",295886.3
+Apple,"First, 2010",213096.7
+BHP Billiton,"Fourth, 2010",243540.3
+BHP Billiton,"First, 2010",209935.1
+BHP Billiton,"Third, 2010",196866.0
+Berkshire Hathaway,"Second, 2010",197356.8
+Berkshire Hathaway,"Third, 2010",204792.0
+Berkshire Hathaway,"First, 2010",200620.5
+China Construction Bank,"Fourth, 2010",222245.1
+China Construction Bank,"Third, 2010",202998.4
+China Construction Bank,"Second, 2010",189170.7
+China Mobile,"First, 2010",192998.6
+China Mobile,"Third, 2010",205339.6
+China Mobile,"Second, 2010",201471.2
+ExxonMobil,"Third, 2010",314622.5
+ExxonMobil,"Fourth, 2010",368711.5
+ExxonMobil,"Second, 2010",291789.1
+ExxonMobil,"First, 2010",316230.8
+General Electric,"First, 2010",194246.2
+ICBC,"Second, 2010",211258.7
+ICBC,"Fourth, 2010",233369.1
+ICBC,"Third, 2010",213364.1
+ICBC,"First, 2010",246419.8
+Microsoft,"Fourth, 2010",238784.5
+Microsoft,"Third, 2010",210676.4
+Microsoft,"First, 2010",256864.7
+Microsoft,"Second, 2010",201655.8
+Nestlé,"Fourth, 2010",203534.3
+PetroChina,"Fourth, 2010",303273.6
+PetroChina,"First, 2010",329259.7
+PetroChina,"Third, 2010",270889.9
+PetroChina,"Second, 2010",268504.8
+Petrobras,"Fourth, 2010",229066.6
+Petrobras,"Third, 2010",220616.5
+Procter & Gamble,"Second, 2010",172736.5
+Royal Dutch Shell,"Fourth, 2010",208593.7
+Walmart,"Second, 2010",178322.7
+Walmart,"First, 2010",209000.7
+AT&T,"First, 2009",148511.0
+Apple,"Fourth, 2009",189801.7
+BHP Billiton,"Fourth, 2009",201248.0
+China Construction Bank,"Fourth, 2009",201436.1
+China Construction Bank,"Third, 2009",186816.7
+China Construction Bank,"Second, 2009",182186.7
+China Mobile,"First, 2009",174673.0
+China Mobile,"Third, 2009",195680.4
+China Mobile,"Second, 2009",200832.4
+ExxonMobil,"Fourth, 2009",323717.1
+ExxonMobil,"Third, 2009",329725.0
+ExxonMobil,"First, 2009",336527.0
+ExxonMobil,"Second, 2009",341140.3
+HSBC,"Fourth, 2009",199254.9
+HSBC,"Third, 2009",198561.1
+ICBC,"Second, 2009",257004.4
+ICBC,"Fourth, 2009",268956.2
+ICBC,"First, 2009",187885.0
+ICBC,"Third, 2009",237951.5
+Johnson & Johnson,"First, 2009",145481.0
+Johnson & Johnson,"Second, 2009",156515.9
+Microsoft,"Third, 2009",229630.7
+Microsoft,"Second, 2009",211546.2
+Microsoft,"First, 2009",163320.0
+Microsoft,"Fourth, 2009",270635.4
+PetroChina,"Third, 2009",325097.5
+PetroChina,"Fourth, 2009",353140.1
+PetroChina,"First, 2009",287185.0
+PetroChina,"Second, 2009",366662.9
+Petrobras,"Second, 2009",165056.9
+Petrobras,"Third, 2009",189027.7
+Petrobras,"Fourth, 2009",199107.9
+Procter & Gamble,"First, 2009",138013.0
+Royal Dutch Shell,"First, 2009",138999.0
+Royal Dutch Shell,"Third, 2009",175986.1
+Royal Dutch Shell,"Second, 2009",156386.7
+Walmart,"First, 2009",204365.0
+Walmart,"Second, 2009",188752.0
+Walmart,"Third, 2009",189331.6
+Walmart,"Fourth, 2009",203653.6
+AT&T,"Fourth, 2008",167950.0
+AT&T,"First, 2008",231168.0
+China Construction Bank,"Third, 2008",186816.7
+China Construction Bank,"Second, 2008",182186.7
+China Mobile,"Fourth, 2008",201291.0
+China Mobile,"First, 2008",298093.0
+China Mobile,"Third, 2008",195680.4
+China Mobile,"Second, 2008",200832.4
+ExxonMobil,"First, 2008",452505.0
+ExxonMobil,"Fourth, 2008",406067.0
+ExxonMobil,"Third, 2008",403366.0
+ExxonMobil,"Second, 2008",465652.0
+Gazprom,"First, 2008",299764.0
+General Electric,"Fourth, 2008",161278.0
+General Electric,"First, 2008",369569.0
+HSBC,"Third, 2008",198561.1
+ICBC,"First, 2008",277236.0
+ICBC,"Fourth, 2008",173930.0
+ICBC,"Third, 2008",237951.5
+ICBC,"Second, 2008",257004.4
+Johnson & Johnson,"Second, 2008",156515.9
+Johnson & Johnson,"Fourth, 2008",166002.0
+Microsoft,"Fourth, 2008",172929.0
+Microsoft,"Second, 2008",211546.2
+Microsoft,"First, 2008",264132.0
+Microsoft,"Third, 2008",229630.7
+PetroChina,"Third, 2008",325097.5
+PetroChina,"Second, 2008",341140.3
+PetroChina,"First, 2008",423996.0
+PetroChina,"Fourth, 2008",259836.0
+Petrobras,"Second, 2008",165056.9
+Petrobras,"Third, 2008",189027.7
+Procter & Gamble,"First, 2008",215640.0
+Procter & Gamble,"Fourth, 2008",184576.0
+Royal Dutch Shell,"Second, 2008",156386.7
+Royal Dutch Shell,"Third, 2008",175986.1
+Royal Dutch Shell,"First, 2008",220110.0
+Walmart,"Second, 2008",188752.0
+Walmart,"Fourth, 2008",219898.0
+Walmart,"Third, 2008",189331.6
+AT&T,"Third, 2007",258047.0
+AT&T,"Fourth, 2007",252051.0
+AT&T,"Second, 2007",255871.0
+AT&T ,"First, 2007",246206.0
+BP,"Second, 2007",231491.0
+Bank of America,"Second, 2007",216963.0
+Bank of America,"Third, 2007",223066.0
+Bank of America,"First, 2007",228177.0
+China Mobile,"Fourth, 2007",354120.0
+China Mobile ,"Third, 2007",327937.0
+Citigroup,"First, 2007",252857.0
+Citigroup,"Third, 2007",232162.0
+Citigroup,"Second, 2007",253703.0
+ExxonMobil,"Fourth, 2007",511887.0
+ExxonMobil,"Third, 2007",513362.0
+ExxonMobil,"First, 2007",429567.0
+ExxonMobil,"Second, 2007",472519.0
+Gazprom,"Second, 2007",245757.0
+Gazprom,"First, 2007",245911.0
+Gazprom ,"Fourth, 2007",329591.0
+Gazprom ,"Third, 2007",260249.0
+General Electric,"Second, 2007",393831.0
+General Electric,"Third, 2007",424191.0
+General Electric,"First, 2007",363611.0
+General Electric ,"Fourth, 2007",374637.0
+ICBC,"Fourth, 2007",338989.0
+ICBC,"First, 2007",224788.0
+ICBC,"Third, 2007",279269.0
+Microsoft,"Third, 2007",276202.0
+Microsoft,"First, 2007",272912.0
+Microsoft,"Second, 2007",281934.0
+Microsoft ,"Fourth, 2007",333054.0
+Petrochina,"Fourth, 2007",723952.0
+Royal Dutch Shell,"Second, 2007",266141.0
+Royal Dutch Shell,"First, 2007",214018.0
+Royal Dutch Shell,"Fourth, 2007",269544.0
+Royal Dutch Shell,"Third, 2007",264397.0
+Sinopec,"Fourth, 2007",249645.0
+Toyota,"First, 2007",230832.0
+Toyota,"Second, 2007",228009.0
+BP,"Fourth, 2006",218643.0
+BP,"First, 2006",233260.0
+BP,"Third, 2006",215623.0
+BP,"Second, 2006",233151.0
+Bank of America,"Fourth, 2006",239758.0
+Bank of America,"First, 2006",211706.0
+Bank of America,"Third, 2006",242451.0
+Bank of America,"Second, 2006",219504.0
+Citigroup,"Fourth, 2006",273691.0
+Citigroup,"First, 2006",238935.0
+Citigroup,"Third, 2006",246727.0
+Citigroup,"Second, 2006",239862.0
+ExxonMobil,"Fourth, 2006",446943.0
+ExxonMobil,"Third, 2006",398906.0
+ExxonMobil,"First, 2006",371631.0
+ExxonMobil,"Second, 2006",371187.0
+Gazprom,"Second, 2006",246341.0
+Gazprom,"Fourth, 2006",271482.0
+Gazprom,"First, 2006",196339.0
+Gazprom,"Third, 2006",254634.3
+General Electric,"Fourth, 2006",383564.0
+General Electric,"First, 2006",362527.0
+General Electric,"Second, 2006",342731.0
+General Electric,"Third, 2006",364414.0
+HSBC,"Second, 2006",201854.0
+HSBC,"Third, 2006",209774.0
+ICBC,"Fourth, 2006",254592.0
+Microsoft,"Third, 2006",272679.0
+Microsoft,"Second, 2006",237688.0
+Microsoft,"Fourth, 2006",293537.0
+Microsoft,"First, 2006",281171.0
+Pfizer,"Third, 2006",206785.0
+Royal Dutch Shell,"Fourth, 2006",225781.0
+Royal Dutch Shell,"First, 2006",211280.0
+Royal Dutch Shell,"Second, 2006",224925.0
+Royal Dutch Shell,"Third, 2006",216368.0
+Toyota,"First, 2006",196731.0
+Toyota,"Fourth, 2006",241161.0
+Walmart,"First, 2006",196860.0
+Walmart,"Second, 2006",200762.0
